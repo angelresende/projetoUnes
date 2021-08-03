@@ -8,8 +8,17 @@
 <h2>
 
 <h2 align="center">
-<img alt="layout" src= "" width="600px">
-</h2>
+<img alt="layout" src= "https://github.com/angelresende/projetoUnes/blob/main/home.PNG" width="600px">
+</h2><hr>
+  
+<h2 align="center">
+<img alt="layout" src= "https://github.com/angelresende/projetoUnes/blob/main/quem-somos.PNG" width="600px">
+</h2><hr>
+
+<h2 align="center">
+<img alt="layout" src= "https://github.com/angelresende/projetoUnes/blob/main/contato.PNG" width="600px">
+</h2><hr>
+  
 
 ## 🚀 Sobre o projeto
 
